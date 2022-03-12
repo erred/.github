@@ -1,6 +1,6 @@
 # erred
 
-Home of [seankhliao](https://seankhliao.com/?utm_source=github&utm_medium=profile&utm_campaign=erred)'s
+Home of [seankhliao](https://seankhliao.com/gh-r-er)'s
 ([@seankhliao](https://github.com/seankhliao))
 old repos.
 
